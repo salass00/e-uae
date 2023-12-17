@@ -22,6 +22,7 @@
 #include <proto/exec.h>
 #undef   __USE_BASETYPE__
 #include <exec/execbase.h>
+#include <proto/timer.h>
 
 #ifdef USE_SDL
 # include <SDL.h>
